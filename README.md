@@ -8,6 +8,8 @@
 
 [![Network Tools](https://img.shields.io/badge/-🌳%20ViaCEP%20Link-000?)](https://luciancardoso.github.io/AprendendoAPIs/viaCEP/)
 
+[![Network Tools](https://img.shields.io/badge/-🌳%20catAPI%20Link-000?)](https://luciancardoso.github.io/AprendendoAPIs/catAPI/)
+
 
 
 
